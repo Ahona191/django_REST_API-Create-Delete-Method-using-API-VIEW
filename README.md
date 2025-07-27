@@ -1,0 +1,1 @@
+# django_REST_API-Create-Delete-Method-using-API-VIEW
